@@ -26,3 +26,5 @@ dist-ssr
 local-preview*.png
 vite.out.log
 vite.err.log
+
+.vercel
