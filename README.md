@@ -221,11 +221,6 @@ Core XRPL EVM systems plus related public product and AI repositories from the s
       <td><a href="https://fuji-byzrt.vercel.app">Live</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/zrt219/ld-2-0-website">LD 2.0 Website</a></td>
-      <td>Next.js speaker website for Lornette Daye.</td>
-      <td>Public Repo</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/zrt219/ai-agents-for-beginners">AI Agents for Beginners</a></td>
       <td>Lesson repository for getting started building AI agents.</td>
       <td>Public Repo</td>
@@ -237,3 +232,4 @@ Core XRPL EVM systems plus related public product and AI repositories from the s
     </tr>
   </tbody>
 </table>
+
